@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp ReactJS
-1. Nama: Muhammad Alfarizi
-2. Email: alfarizi_m36@yahoo.com
-3. Sistem Operasi yang digunakan: Windows 10
-4. Akun GitHub : m-alfarizi
-5. Akun Telegram: Muhammad Alfarizi
